@@ -4,7 +4,7 @@ Utilizo Fetch + Async-await para consumir una api de usuarios random.
 <br>
 <img src="./randomUser.jpg">
 <br>
-<a src="https://randomuser.me/">Api Random User</a>
+<a href="https://randomuser.me/">Api Random User</a>
 
 Para que la api te envie un usuario ingresa a https://randomuser.me/api/
 Para ver lo que me devuelve la api de forma linda tengo una extension de chrome que se llama JSON Formatter.
