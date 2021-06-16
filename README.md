@@ -9,7 +9,7 @@ Para ver lo que me devuelve la api de forma linda tengo una extension de chrome 
 
 ¿Te animas a hacer el inicio de una red social para este usuario?
 En la pagina debe haber un componente con todos los usuario que sigues 
-y otro principal con sus posteos de ellos. Ademas el usuario que esta en sesion debe poder realizar una publicacion.
+y otro principal con los posteos de ellos. Ademas el usuario que esta en sesion debe poder realizar una publicacion.
 Se podria agregar otro componente con otros usuarios para poder seguir 
 y que cuando le des click en seguir se pasen automaticamente a "usuarios seguidos".
 
