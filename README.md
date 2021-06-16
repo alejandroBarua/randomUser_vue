@@ -1,7 +1,7 @@
 # randomUser_vue
 Esta es una practica sencilla de Vue3 con un boton que pide usuarios al azar a una api.
 Utilizo Fetch + Async-await para consumir una api de usuarios random.
-
+<img src="./randomUser.jpg">
 <a src="https://randomuser.me/">Api Random User</a>
 
 Para que la api te envie un usuario ingresa a https://randomuser.me/api/
