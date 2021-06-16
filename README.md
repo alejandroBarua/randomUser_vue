@@ -16,7 +16,8 @@ Se podria agregar otro componente con otros usuarios para poder seguir
 y que cuando le des click en seguir se pasen automaticamente a "usuarios seguidos".
 
 Con la api de random user se pueden tener los nombres y fotos de los usuarios
-para los posteos podemos usar la api de jsonplaceholder
+para los posteos podemos usar la api de <a href="https://jsonplaceholder.typicode.com/">jsonplaceholder</a>
 ¿Porque usar dos apis diferentes? 
 En jsonplaceholder se puede encontrar todo usuario, posteos, comentarios, fotos...
 pero las fotos no tienen personas, asi que es por una razon estetica.
+
